@@ -1,3 +1,3 @@
 variable "ezbucket" {
-  default = "ez0147"
+  default = "eazzy0147"
 }
