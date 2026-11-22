@@ -1,6 +1,6 @@
 module "s3" {
   source = "./modules/s3"
-  ezbucket = var.ezbucket
+  ezbucket = ez0147
 }
 
 module "ec2" {
