@@ -1,5 +1,5 @@
 variable "ezbucket" {
-  default = "ez0147"
+  default = "eazzy0147"
 }
 variable "ezekiel202" {
   default = "t3.micro"
