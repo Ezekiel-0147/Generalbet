@@ -11,7 +11,7 @@ on:
 
 jobs:
   deploy-plan:
-    name: Terraform Plan
+    name: eazzy plan
     if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
